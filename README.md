@@ -2,10 +2,10 @@
 Read Wixel\GUMP documentation at https://github.com/Wixel/GUMP
 
 # What this?
-This is a wixel/GUMP library (Data Validation for PHP) with extended function
+This is a wixel/GUMP library (Data Validation for PHP) with extended function.
+Credit goes to https://github.com/Wixel/GUMP
 
 # Example
-You can find example code at `index.php` 
 ```
 require_once "vendor/autoload.php";
 
